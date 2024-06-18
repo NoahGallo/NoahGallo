@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Noah, a Luxembourgish "Alternance" Master Stud
 Fluent in Luxembourgish, German, English, and French, I navigate the global tech landscape with ease.
 
 ## 🌐 Professional Journey 🌐
-- **Current Internship**: Fujitsu Luxembourg - Focusing on Azure, Ansible, Terraform, and more.
 - **Education**: Master in IT specialized in Cloud Computing and Mobility at Université de Picardie Jules Verne.
 - **Experience**: Various internships and projects with a focus on cloud computing, infrastructure, DevOps, CI/CD, system administration, IoT, and programming.
 
