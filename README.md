@@ -32,8 +32,8 @@ Let's connect and explore the boundless possibilities of the cloud together! ðŸš
 ---
 
 ### Certifications
-- Microsoft Certified: Azure Solutions Architect Expert
-- AZ-305 Designing Microsoft Azure Infrastructure Solutions
+- AZ-400 Azure DevOps Engineer Expert
+- AZ-305 Azure Solutions Architect Expert
 - AZ-104 Microsoft Azure Administrator Associate
 - AZ-900 Microsoft Azure Fundamentals
 - Cisco CCNA1-4 v7
