@@ -9,7 +9,7 @@ Fluent in Luxembourgish, German, English, and French, I navigate the global tech
 
 ## 🌐 Professional Journey 🌐
 - **Education**: Master in IT specialized in Cloud Computing and Mobility at Université de Picardie Jules Verne.
-- **Experience**: Various internships and projects with a focus on cloud computing, infrastructure, DevOps, CI/CD, system administration, IoT, and programming.
+- **Experience**: Various internships and projects with a focus on cloud computing, infrastructure, DevOps, CI/CD, system administration, and some programming.
 
 ## 🌱 Continuous Learner & Collaborator 🌱
 I'm actively engaged in pursuing cloud certifications and am passionate about expanding my expertise. I thrive on sharing knowledge, learning new technologies, and tackling challenging problems.
@@ -19,7 +19,7 @@ I'm actively engaged in pursuing cloud certifications and am passionate about ex
 - **Automation**: Ansible, Terraform
 - **Containers**: Docker, Kubernetes
 - **Virtualization**: VMware ESXi, Proxmox
-- **OS**: Windows (10/11, Server), Linux
+- **OS**: Windows (10/11, Server), Linux (Ubuntu, RHEL)
 - **Languages**: Bash, PowerShell, SQL, Python
 
 ## 📫 How to reach me
