@@ -1,57 +1,61 @@
 # Noah Gallo
 
-🚀 **Cloud Enthusiast & Aspiring Architect** 🚀
+💡 **DevOps Engineer | Cloud Enthusiast | Innovation-Driven Problem Solver**
 
-Welcome to my GitHub profile! I'm Noah, a Luxembourgish "Alternance" Master Student specializing in Cloud Computing and Mobility. I'm on a mission to engineer innovative solutions that transcend industries, leveraging cloud platforms like Microsoft Azure, AWS, and Google Cloud, along with automation tools like Ansible and Terraform.
-
-## 🌍 Multilingual Explorer 🌍
-Fluent in Luxembourgish, German, English, and French, I navigate the global tech landscape with ease.
-
-## 🌐 Professional Journey 🌐
-- **Education**: Master in IT specialized in Cloud Computing and Mobility at Université de Picardie Jules Verne.
-- **Experience**: Various internships and projects with a focus on cloud computing, infrastructure, DevOps, CI/CD, system administration, and some programming.
-
-## 🌱 Continuous Learner & Collaborator 🌱
-I'm actively engaged in pursuing cloud certifications and am passionate about expanding my expertise. I thrive on sharing knowledge, learning new technologies, and tackling challenging problems.
-
-## 🔧 Technical Arsenal 🔧
-- **Cloud Platforms**: Azure, AWS, GCP
-- **Automation**: Ansible, Terraform
-- **Containers**: Docker, Kubernetes
-- **Virtualization**: VMware ESXi, Proxmox
-- **OS**: Windows (10/11, Server), Linux (Ubuntu, RHEL)
-- **Languages**: Bash, PowerShell, SQL, Python
-
-## 📫 How to reach me
-- **LinkedIn**: [noahgallo](https://www.linkedin.com/in/noahgallo/)
-- **Portfolio**: https://www.noah-gallo.com
-- **Mail**: gallo.noah@gmail.com
-
-Let's connect and explore the boundless possibilities of the cloud together! 🚀🌐
+Welcome to my GitHub profile! I'm Noah — a DevOps Engineer and *alternance* Master’s student specializing in Cloud Computing & Mobility.  
+Curious by nature and innovative by choice, I design scalable infrastructures, automate deployments, and optimize systems for reliability and efficiency.  
+I work with tools like **Terraform**, **Azure DevOps**, **Kubernetes**, and **Ansible**, and have a strong foundation in **CI/CD**, **infrastructure-as-code**, and **container orchestration**.
 
 ---
 
-### Certifications
-- AZ-400 Azure DevOps Engineer Expert
-- AZ-305 Azure Solutions Architect Expert
-- AZ-104 Microsoft Azure Administrator Associate
-- AZ-900 Microsoft Azure Fundamentals
-- Cisco CCNA1-4 v7
-- Microsoft Office 365 Certifications
-- CLF-C01 AWS Certified Cloud Practitioner (Course)
-- Docker Certified Associate (Course)
+## 🌍 Multilingual Explorer  
+Fluent in **Luxembourgish**, **German**, **English**, and **French** — I bring global perspective to every project.
 
-### Additional Activities
-- Staying in shape
-- Computer Science
-- Sports
-- Playing the Electric Bass
+## 🌐 Professional Journey  
+- **Education**: Master in IT specialized in Cloud Computing & Mobility – Université de Picardie Jules Verne  
+- **Focus Areas**: Cloud architecture, automation, DevOps pipelines, system administration, containerization, and monitoring
+
+## 🌱 Continuous Learner & Innovator  
+I’m deeply passionate about technology, learning, and sharing knowledge. I constantly seek to grow my skillset, stay on the cutting edge of cloud trends, and solve real-world challenges through innovation and collaboration.
+
+## 🔧 Technical Arsenal  
+- **Cloud Platforms**: Azure, AWS, GCP  
+- **Automation Tools**: Terraform, Ansible, Packer  
+- **CI/CD & DevOps**: GitLab, Azure DevOps, GitHub Actions, Jenkins, Prometheus, Grafana  
+- **Containers & Orchestration**: Docker, Kubernetes, Docker Swarm, Argo CD, OpenShift  
+- **Operating Systems**: Linux (Ubuntu, RHEL), Windows Server, VMware ESXi, Proxmox  
+- **Languages**: Python, Bash, PowerShell, MySQL, JavaScript  
+- **Other Skills**: Networking (TCP/IP, DNS, DHCP, BGP, OSPF), pfSense, Active Directory, SQL/NoSQL DBs, AI/ML basics  
+
+## 📫 How to Reach Me  
+- **LinkedIn**: [noahgallo](https://www.linkedin.com/in/noahgallo/)  
+- **Portfolio**: [noah-gallo.com](https://www.noah-gallo.com)  
+- **Email**: gallo.noah@gmail.com
 
 ---
 
-### Github Stats
+## 📜 Certifications
+- **RedHat Certified System Administrator (RHCSA)**
+- **AZ-400** – Azure DevOps Engineer Expert  
+- **AZ-305** – Azure Solutions Architect Expert  
+- **AZ-104** – Azure Administrator Associate  
+- **AZ-900** – Azure Fundamentals  
+- **Cisco CCNA 1–4 v7**  
+- **Office 365 Certifications**
+
+---
+
+## 🧩 Additional Interests  
+- Staying active & working out  
+- Exploring new tech & programming  
+- Playing the electric bass 🎸  
+- Sports & gaming for balance
+
+---
+
+## 📊 GitHub Stats  
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoahGallo&show_icons=true&theme=radical)
 
 ---
-Feel free to reach out if you're interested in collaborating on cloud projects or if you have any questions about my work!
 
+💬 *Feel free to reach out if you'd like to collaborate on cloud-native projects, automation ideas, or just want to connect about DevOps and tech!*
