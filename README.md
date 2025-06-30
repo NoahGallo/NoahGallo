@@ -2,7 +2,7 @@
 
 💡 **DevOps Engineer | Cloud Enthusiast | Innovation-Driven Problem Solver**
 
-Welcome to my GitHub profile! I'm Noah — a DevOps Engineer and *alternance* Master’s student specializing in Cloud Computing & Mobility.  
+Welcome to my GitHub profile! I'm Noah — a Cloud & DevOps Engineer.
 Curious by nature and innovative by choice, I design scalable infrastructures, automate deployments, and optimize systems for reliability and efficiency.  
 I work with tools like **Terraform**, **Azure DevOps**, **Kubernetes**, and **Ansible**, and have a strong foundation in **CI/CD**, **infrastructure-as-code**, and **container orchestration**.
 
